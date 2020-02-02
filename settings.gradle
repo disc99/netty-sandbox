@@ -1,0 +1,8 @@
+rootProject.name = 'netty-sandbox'
+
+//include 'discard'
+//include 'echo'
+include 'http2'
+include 'discard'
+include 'echo'
+
